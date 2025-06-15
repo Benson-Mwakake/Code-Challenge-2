@@ -37,7 +37,7 @@ Remove | Toggle Attending
 1. **Clone or download this repository**:
 
 ```bash
-git clone YOUR_REPO_LINK
+git clone git@github.com:Benson-Mwakake/Code-Challenge-2.git
 ```
 
 2. **Open `index.html` in your browser.**
